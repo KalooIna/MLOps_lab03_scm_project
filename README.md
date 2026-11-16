@@ -1,3 +1,4 @@
 # MLOps_lab03_scm_project
 
-this is a modification initiated by B1 as per lab instructions
+This modification is added in B2 as per lab instructions
+I am adding a modification to this file 
