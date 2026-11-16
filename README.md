@@ -1,1 +1,3 @@
-# devops-intro-lab-project
+# MLOps_lab03_scm_project
+
+This modification is added in B2 as per lab instructions
